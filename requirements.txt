@@ -1,0 +1,19 @@
+# Core
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Time Series & Statistical Models
+statsmodels
+pmdarima
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Deep Learning
+tensorflow
